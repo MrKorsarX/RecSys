@@ -23,7 +23,7 @@
   + text_score_final_model_cb.cbm - модель для обработки текстовых фичей
 # Стек
 ## python, pandas, matplotlib, numpy, scikit-learn, catboost, fastAPI, SQL, sqlalchemy
-# Этфпы разработки
+# Этапы разработки
 ## Создание сервиса
 ## Моделирование
   + Загрузка данных
