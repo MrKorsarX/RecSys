@@ -21,6 +21,8 @@
   + model_control.cbm - контрольная модель
   + model_test.cbm - тестовая модель для А/Б тестов
   + text_score_final_model_cb.cbm - модель для обработки текстовых фичей
+# Стек
+## python, pandas, matplotlib, numpy, scikit-learn, catboost, fastAPI, SQL, sqlalchemy
 # Этфпы разработки
 ## Создание сервиса
 ## Моделирование
