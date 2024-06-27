@@ -14,3 +14,14 @@ class PostGet(BaseModel):
 class Response(BaseModel):
     exp_group: str
     recommendations: List[PostGet]
+
+
+class TestResponse(BaseModel):
+    user_id: int
+    data: dict
+
+
+class BenchmarResponseF(BaseModel):
+    iters: int
+    mean_time: float
+    std: float
